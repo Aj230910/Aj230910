@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Ambrish Jeyan T</h1>
+<h1 align="center">Hi  I'm Ambrish Jeyan T</h1>
 
 <p align="center">
 🚀 Aspiring Software Developer | MERN Stack | Java | Python  
