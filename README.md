@@ -1,14 +1,14 @@
 <h1 align="center">Hi  I'm Ambrish Jeyan T</h1>
 
 <p align="center">
-🚀 Aspiring Software Developer | MERN Stack | Java | Python  
+ Aspiring Software Developer | MERN Stack | Java | Python  
 | Intern @ CodTech IT Solutions  
 🌐 Portfolio: https://ambrish-jeyan-portfolio.vercel.app/
 </p>
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 I’m a passionate full stack developer skilled in building web apps with clean UI and efficient backend logic.
 I enjoy solving DSA challenges, building real-time systems, and learning emerging technologies.
 
@@ -20,7 +20,7 @@ I enjoy solving DSA challenges, building real-time systems, and learning emergin
 
 ---
 
-## 💼 Experience
+##  Experience
 **Software Developer Intern — CodTech IT Solutions Pvt. Ltd**  
 🔹 Worked on MERN stack projects  
 🔹 Built responsive UIs and secure REST APIs  
@@ -28,7 +28,7 @@ I enjoy solving DSA challenges, building real-time systems, and learning emergin
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 📌 AI Proctored Exam System
 AI-driven proctoring with admin & student portals.
@@ -41,7 +41,7 @@ Secure multi-auth system with OAuth and AWS deployment.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aj230910&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
@@ -55,14 +55,14 @@ Secure multi-auth system with OAuth and AWS deployment.
 
 ---
 
-## 🧠 Coding Profiles
+##  Coding Profiles
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-brown?style=for-the-badge)](https://www.codechef.com/users/bold_cape_44)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge)](https://leetcode.com/)
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
 📧 ambrishjeyan023@example.com  
 🔗 LinkedIn: (https://www.linkedin.com/in/ambrish-jeyan-t/)
