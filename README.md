@@ -16,7 +16,7 @@ I enjoy solving DSA challenges, building real-time systems, and learning emergin
 
 ## 🛠 Skills & Technologies
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,java,python,aws,ts,git,streamlit" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,java,python,aws,ts,git,streamlit,zapier" />
 
 ---
 
