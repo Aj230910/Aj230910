@@ -110,7 +110,7 @@
 
 ---
 
-##  Fun Section (Typing Animation)
+##  Fun Section 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+Learner;GenAI+Explorer;Future+Software+Engineer+"/>
