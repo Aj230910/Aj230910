@@ -1,50 +1,76 @@
 <h1 align="center">Hi  I'm Ambrish Jeyan T</h1>
 
+<h3 align="center"> Aspiring Software Developer | MERN Stack | Java | Python | GenAI</h3>
+
 <p align="center">
- Aspiring Software Developer | MERN Stack | Java | Python  
-| GenAI 
-🌐 Portfolio: https://ambrish-jeyan-portfolio.vercel.app/
+  <a href="https://ambrish-jeyan-portfolio.vercel.app/">
+    🌐 Portfolio
+  </a>
 </p>
 
 ---
 
 ##  About Me
-I’m a passionate full stack developer skilled in building web apps with clean UI and efficient backend logic.
-I enjoy solving DSA challenges, building real-time systems, and learning emerging technologies.
+
+-  Full Stack Developer passionate about building scalable web apps  
+-  Strong in **DSA + Problem Solving**  
+-  Exploring **GenAI, LLMs & Automation (Zapier)**  
+-  Love building **real-time systems & impactful projects**  
+-  Goal: Crack top product-based companies  
 
 ---
 
-## 🛠 Skills & Technologies
+##  Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,java,python,aws,ts,git,streamlit,zapier" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,java,python,aws,ts,git,streamlit,zapier" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt Engineering-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
 ---
 
 ##  Experience
-**Software Developer Intern — CodTech IT Solutions Pvt. Ltd**  
-🔹 Worked on MERN stack projects  
-🔹 Built responsive UIs and secure REST APIs  
-🔹 Collaborated with senior devs on real product features
+
+** Software Developer Intern — CodTech IT Solutions Pvt. Ltd**  
+- Built scalable MERN applications  
+- Developed secure REST APIs  
+- Designed responsive UI components  
+- Collaborated with senior developers on real-world projects  
 
 ---
 
 ##  Featured Projects
 
-### 📌 AI Proctored Exam System
-AI-driven proctoring with admin & student portals.
-
-### 📌 Road Accident Alert System
-Live camera monitoring + auto email alerts with evidence.
-
-### 📌 Authentication System
-Secure multi-auth system with OAuth and AWS deployment.
+###  AI Proctored Exam System
+- Real-time AI monitoring system  
+- Admin & student dashboards  
+- Face detection + malpractice tracking  
 
 ---
 
-##  GitHub Stats
+###  Road Accident Alert System
+- Live camera monitoring  
+- Automatic email alerts with evidence  
+- Built using automation tools + backend logic  
+
+---
+
+###  Authentication System
+- Multi-auth (OAuth + JWT)  
+- Secure login system  
+- Deployed on AWS  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aj230910&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aj230910&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://streak-stats.demolab.com?user=Aj230910&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
@@ -52,17 +78,40 @@ Secure multi-auth system with OAuth and AWS deployment.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj230910&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
+
+## 🔥 Coding Profiles
+
+<p align="center">
+  <a href="https://www.codechef.com/users/bold_cape_44">
+    <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge"/>
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
-##  Coding Profiles
+##  Connect With Me
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-brown?style=for-the-badge)](https://www.codechef.com/users/bold_cape_44)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge)](https://leetcode.com/)
+<p align="center">
+  📧 ambrishjeyan023@example.com <br>
+  🔗 <a href="https://www.linkedin.com/in/ambrish-jeyan-t/">LinkedIn</a>
+</p>
 
 ---
 
-##  Contact Me
+##  Profile Views
 
-📧 ambrishjeyan023@example.com  
-🔗 LinkedIn: (https://www.linkedin.com/in/ambrish-jeyan-t/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aj230910&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+##  Fun Section (Typing Animation)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+Learner;GenAI+Explorer;Future+Software+Engineer+"/>
+</p>
