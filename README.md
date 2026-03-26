@@ -2,7 +2,7 @@
 
 <p align="center">
  Aspiring Software Developer | MERN Stack | Java | Python  
-| Intern @ CodTech IT Solutions  
+| GenAI 
 🌐 Portfolio: https://ambrish-jeyan-portfolio.vercel.app/
 </p>
 
