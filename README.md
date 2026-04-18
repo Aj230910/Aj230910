@@ -60,7 +60,7 @@
 
 ---
 
-### 📊 LocalRank – Local SEO Ranking Analyzer
+### LocalRank – Local SEO Ranking Analyzer
 - Full-stack SEO analytics tool for analyzing Google Maps local business rankings  
 - Integrated Google Places API to fetch ratings, reviews, and location data
 ---
