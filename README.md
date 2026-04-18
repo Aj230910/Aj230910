@@ -1,6 +1,6 @@
 <h1 align="center">Hi  I'm Ambrish Jeyan T</h1>
 
-<h3 align="center"> Aspiring Software Developer | MERN Stack | Java | Python | GenAI</h3>
+<h3 align="center"> Aspiring Software Developer | MERN Stack | Java | Python | GenAI |  PwC Advisory Launchpad Learning Program Scholar</h3>
 
 <p align="center">
   <a href="https://ambrish-jeyan-portfolio.vercel.app/">
