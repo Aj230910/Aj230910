@@ -24,7 +24,7 @@ Passionate about building scalable Full-Stack applications and AI-powered soluti
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 -  B.Tech Information Technology
 -  Software Developer passionate about Full Stack Development and AI Engineer
@@ -34,30 +34,36 @@ Passionate about building scalable Full-Stack applications and AI-powered soluti
 
 ---
 
-#  Tech Stack
+## 🚀 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nodejs,express,mongodb,mysql,firebase,git,github,aws,vscode,figma,zapier" />
+
 </p>
 
-### Frontend
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css"/>
-</p>
+<img src="https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white"/>
 
-### Backend
+<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 
-### Database
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/FAISS-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CNN-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MobileNetV2-FF9800?style=for-the-badge"/>
+
 </p>
 
 ### AI / ML
