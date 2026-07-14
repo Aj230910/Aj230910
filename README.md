@@ -1,122 +1,198 @@
-<h1 align="center">Hi  I'm Ambrish Jeyan T</h1>
+<h1 align="center">Hi , I'm Ambrish Jeyan T</h1>
 
-<h3 align="center"> Aspiring Software Developer | MERN Stack | Java | Python | GenAI |  PwC Advisory Launchpad Learning Program Scholar</h3>
+<h3 align="center">
+Aspiring Software Developer | MERN Stack | Java | Python | GenAI | PwC Advisory Launchpad Learning Program Scholar
+</h3>
 
 <p align="center">
-  <a href="https://ambrish-jeyan-portfolio.vercel.app/">
-    🌐 Portfolio
-  </a>
+Passionate about building scalable Full-Stack applications and AI-powered solutions that solve real-world problems.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ambrish-jeyan-t/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Aj230910">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/eqviSgZsey/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 </p>
 
 ---
 
-##  About Me
+# 👨‍💻 About Me
 
--  Full Stack Developer passionate about building scalable web apps  
--  Strong in **DSA + Problem Solving**  
--  Exploring **GenAI, LLMs & Automation (Zapier)**  
--  Love building **real-time systems & impactful projects**  
--  Goal: Crack top product-based companies  
+-  B.Tech Information Technology
+-  Software Developer passionate about Full Stack Development and AI Engineer
+-  Building AI applications using **LLMs, RAG & Deep Learning**
+
+
 
 ---
 
-##  Tech Stack
+#  Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,java,python,aws,ts,git,streamlit,zapier" />
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt Engineering-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLM-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white"/>
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
 </p>
 
----
+### Backend
 
-##  Experience
-
-** Software Developer Intern — CodTech IT Solutions Pvt. Ltd**  
-- Built scalable MERN applications  
-- Developed secure REST APIs  
-- Designed responsive UI components  
-- Collaborated with senior developers on real-world projects  
-
----
-
-##  Featured Projects
-
-###  AI Proctored Exam System
-- Real-time AI monitoring system  
-- Admin & student dashboards  
-- Face detection + malpractice tracking  
-
----
-
-###  Road Accident Alert System
-- Live camera monitoring  
-- Automatic email alerts with evidence  
-- Built using automation tools + backend logic  
-
----
-
-### LocalRank – Local SEO Ranking Analyzer
-- Full-stack SEO analytics tool for analyzing Google Maps local business rankings  
-- Integrated Google Places API to fetch ratings, reviews, and location data
----
-
-###  Authentication System
-- Multi-auth (OAuth + JWT)  
-- Secure login system  
-- Deployed on AWS  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aj230910&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Aj230910&theme=tokyonight&hide_border=true" height="165"/>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj230910&layout=compact&theme=tokyonight&hide_border=true"/>
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+</p>
+
+### AI / ML
+
+- Google Gemini API
+- LangChain
+- HuggingFace
+- FAISS
+- TensorFlow
+- Keras
+- CNN
+- MobileNetV2
+- Retrieval-Augmented Generation (RAG)
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,aws"/>
 </p>
 
 ---
 
-## 🔥 Coding Profiles
+#  Featured Projects
+
+##  AI-Powered Document Question Answering System
+
+> AI-powered document intelligence platform built using **LangChain, FAISS, HuggingFace Embeddings and Google Gemini API**.
+
+ Features
+
+- PDF Question Answering
+- Retrieval-Augmented Generation (RAG)
+- Semantic Search
+- Context-aware Responses
+
+**Tech**
+
+`Python` `Streamlit` `LangChain` `FAISS` `Gemini API`
+
+---
+
+##  Cat vs Dog Image Classifier
+
+Deep Learning project using **CNN and MobileNetV2 Transfer Learning**.
+
+ Features
+
+- Image Classification
+- CNN Model
+- MobileNetV2 Transfer Learning
+- 95.88% Validation Accuracy
+- TensorFlow & Keras
+
+**Tech**
+
+`Python` `TensorFlow` `Keras`
+
+---
+
+##  Road Accident Alert System
+
+Real-time accident detection platform using live camera monitoring.
+
+ Features
+
+- Live Camera Monitoring
+- Flask Backend
+- Automatic Email Alerts
+- Evidence Collection
+- Emergency Notification
+
+**Tech**
+
+`React` `Flask` `Python`
+
+---
+
+#  GitHub Stats
 
 <p align="center">
-  <a href="https://www.codechef.com/users/bold_cape_44">
-    <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge"/>
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge"/>
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aj230910&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aj230910&theme=tokyonight"/>
+
 </p>
 
 ---
 
-##  Connect With Me
+#  Most Used Languages
 
 <p align="center">
-  📧 ambrishjeyan023@example.com <br>
-  🔗 <a href="https://www.linkedin.com/in/ambrish-jeyan-t/">LinkedIn</a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj230910&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-##  Profile Views
+#  LeetCode
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aj230910&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<a href="https://leetcode.com/u/eqviSgZsey/">
+
+Visit My LeetCode Profile →
+
+</a>
+
 </p>
 
 ---
 
-##  Fun Section 
+#  Connect With Me
+
+ **Email**
+
+ambrishjeyan023@gmail.com
+
+ **LinkedIn**
+
+https://www.linkedin.com/in/ambrish-jeyan-t/
+
+ **GitHub**
+
+https://github.com/Aj230910
+
+ **LeetCode**
+
+https://leetcode.com/u/eqviSgZsey/
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+Learner;GenAI+Explorer;Future+Software+Engineer+"/>
+
+⭐ Thanks for visiting my profile!
+
 </p>
