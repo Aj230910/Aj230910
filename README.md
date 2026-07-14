@@ -56,14 +56,6 @@ Passionate about building scalable Full-Stack applications and AI-powered soluti
 
 <img src="https://img.shields.io/badge/FAISS-0A66C2?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CNN-4CAF50?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MobileNetV2-FF9800?style=for-the-badge"/>
-
 </p>
 
 ### AI / ML
