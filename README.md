@@ -34,7 +34,7 @@ Passionate about building scalable Full-Stack applications and AI-powered soluti
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <p align="center">
 
@@ -145,29 +145,21 @@ Real-time accident detection platform using live camera monitoring.
 
 ---
 
-#  Most Used Languages
+##  LeetCode
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj230910&layout=compact&theme=tokyonight"/>
+<a href="https://leetcode.com/u/eqviSgZsey/" target="_blank">
+<img src="https://img.shields.io/badge/Solved%20250%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-</p>
-
----
-
-#  LeetCode
-
-<p align="center">
+<br><br>
 
 <a href="https://leetcode.com/u/eqviSgZsey/">
-
 Visit My LeetCode Profile →
-
 </a>
 
 </p>
-
----
 
 #  Connect With Me
 
